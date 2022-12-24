@@ -1,0 +1,7 @@
+<h2>🏴・Atlax générateur de compte depuis 2020..</h2>
+
+
+
+
+
+<img class="logo aos-init aos-animate" src="svg/lightgen.png" alt="lightgen" data-aos="fade-right">
